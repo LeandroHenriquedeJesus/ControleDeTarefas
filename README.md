@@ -33,7 +33,7 @@ Aplicação console em C# para gerenciar tarefas com cadastro, listagem, atualiz
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/ControleDeTarefas.git
+git clone https://github.com/LeandroHenriquedeJesus/ControleDeTarefas.git
 cd ControleDeTarefas
 
 # Execute a aplicação
