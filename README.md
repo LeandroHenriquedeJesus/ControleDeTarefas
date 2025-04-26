@@ -26,9 +26,9 @@ Aplicação console em C# para gerenciar tarefas com cadastro, listagem, atualiz
 
 ControleDeTarefas/
 - │
-- ├── Models/              # Modelos de dados (Tarefa e enum StatusTarefa)
-- ├── Services/            # Lógica de negócio (TarefaService)
-- ├── Program.cs           # Interface via terminal
+- ├── Models/ # Modelos de dados (Tarefa e enum StatusTarefa)
+- ├── Services/ # Lógica de negócio (TarefaService)
+- ├── Program.cs # Interface via terminal
 - └── ControleDeTarefas.csproj
 
 ---
