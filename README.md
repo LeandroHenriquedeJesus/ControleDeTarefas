@@ -22,6 +22,8 @@ Aplicação console em C# para gerenciar tarefas com cadastro, listagem, atualiz
 
 ---
 
+## 🧑‍💻 Estrutura de Pastas
+
 ControleDeTarefas/
 - │
 - ├── Models/            # Modelos de dados (Tarefa e enum StatusTarefa)
