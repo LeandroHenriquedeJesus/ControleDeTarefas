@@ -9,7 +9,7 @@ void Menu()
     Console.WriteLine("1. Cadastrar tarefa");
     Console.WriteLine("2. Listar tarefas");
     Console.WriteLine("3. Marcar como concluída");
-    Console.WriteLine("4. Filtrar por tarefas");
+    Console.WriteLine("4. Filtrar tarefas");
     Console.WriteLine("0. Sair");
 }
 
