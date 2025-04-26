@@ -9,7 +9,6 @@ Aplicação console em C# para gerenciar tarefas com cadastro, listagem, atualiz
 - 🔄 Marcar tarefas como concluídas
 - 🔍 Filtrar tarefas por:
   - Status (Pendente, Em Andamento, Concluída)
-  - Data de vencimento
 
 ---
 
